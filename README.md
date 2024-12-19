@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Machine Learning Researcher and Software Engineer focusing on Natural Language Processing, Natural Language Understanding, Automatic Speech Recognition, and High-Performance Computing.**
+**Experienced Machine Learning Engineer with deep expertise in Software Engineering, focusing on Language Modeling, Multi-agent Systems, (Real-time) Automatic Speech Recognition, and High-Performance Computing.**
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [moncefbenaicha.com](https://moncefbenaicha.com)
